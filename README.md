@@ -28,3 +28,7 @@ You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e797
 | Servo Motor | High Torque Servo Motor DS-S020A-C | 2 | https://electroslab.com/products/high-torque-servo-motor-ds-s020a-c?_pos=8&_sid=93834f66d&_ss=r | 
 | Audio Power Amplifier Module | LM386 Audio Power Amplifier Module | 1 | https://electroslab.com/products/lm386-audio-power-amplifier-module?_pos=2&_sid=411d3b9ac&_ss=r | 
 | Speaker Module | Speaker Module | 1 | https://electroslab.com/products/speaker-8-ohm-0-5-watt | 
+| Breadboard Power Module | MB102 Breadboard Power Supply Module 3.3V 5V | 1 | https://electroslab.com/products/mb102-breadboard-power-supply-module-3-3v-5v?_pos=1&_sid=f577cafb8&_ss=r |
+| Battery | Li-ion Rechargeable Battery 18650 - 3.7v 2000 mAh | 2 | https://electroslab.com/products/li-ion-rechargeable-solder-battery-18650-3-7v-2800-mah | 
+| Battery Holder | 2 X Lithium Battery Holder Box (LIR-18650 3.7V) | 1 | https://electroslab.com/products/2-x-aa-lithium-battery-charger | 
+
