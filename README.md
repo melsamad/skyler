@@ -3,7 +3,15 @@ An Ai Tutor Lamp to help with your homework instead of pulling out your phone
 
 ## Inspiration 
 
-Whenever I need to check if my homework is correct, I often grab my phone, snap a picture and put it in some LLM. So instead, I'm building an advanced smart lamp to be my tutor.
+I finished school (yay) and looking back I realized that after finishing my homework (especially anything math related) or when I stumble upon hard problems I can't solve until the end, I have a tendency of grabbing my phone, taking a picture of the homework and asking some sort of Ai to help out or correct my work.
+
+I think this is a good use of Ai, but here's the catch: I end up doom scrolling on my phone. So instead of having to go through all this and losing my focus, I thought to myself: why not build an Ai tutor lamp with a built-in camera that can just move around, snap a picture of my homework, and talk to me about it?
+
+When I was envisionning it I thought I could connect Gemini to it (I've used the Gemini API so many times before) or Gemma, Google's local Ai. I also want to make it into an app: without having to do anything, the user's conversations and images are kept within an app to look back on progress or notice places where he often struggles.
+
+So, after understanding what I want this lamp to do and** how I want it to move and interact**, I set out to look for inspiration on how I want this "lamp" to look like, and I found this sort of vintage, old tech looking one. I imagined it moving, and instead of lamps a screen that makes cute faces and talks to you, with a built-in camera on top, and so I used it for inspiration for my 3D model.
+
+NOTE: because this project is intended to be a prototype to see if such tech could actually be useful and interact properly, it's gonna be very ugly. I don't have a 3D printer (yet) so I'm relying a lot on my arts and crafts skills to envision this.
 
 This project is intended to be a prototype for a project I plan to expand and develop. Here, I am attempting to get a working, useful lamp in a short amount of time with a couple of new items and some that I already have. Thus, I have 3D Modeled an idea for what the finished lamp should look like and I have made a simple schematic describing the wiring of all components. 
 
