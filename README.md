@@ -5,14 +5,30 @@ An Ai Tutor Lamp to help with your homework instead of pulling out your phone
 
 Whenever I need to check if my homework is correct, I often grab my phone, snap a picture and put it in some LLM. So instead, I'm building an advanced smart lamp to be my tutor.
 
-## 3D Model & Schematic 
-
 This project is intended to be a prototype for a project I plan to expand and develop. Here, I am attempting to get a working, useful lamp in a short amount of time with a couple of new items and some that I already have. Thus, I have 3D Modeled an idea for what the finished lamp should look like and I have made a simple schematic describing the wiring of all components. 
 
+## Components 
 
+- ESP32
+- ESP32-CAM
+- Touch LCD Screen
+- LCD Screen
+- Nema 17 Stepper Motor
+- A4988 Stepper Motor Driver
+- High Torque Servo Motor
+- LM386 Audio Amplifier Module
+- Speaker
+- MB102 Breadboard Power Supply Module
+- Li-ion Rechargeable Battery
+- 2 X Lithium Battery Holder
+- On/Off Button
+
+## 3D Model
 <img width="869" height="773" alt="Screenshot 2026-06-16 at 2 25 22 AM" src="https://github.com/user-attachments/assets/4bd6b224-931f-4f30-b14e-12d8299b94b8" />
 
 You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e7975b6744942bbf4ec/w/496116313dd6149625ee8f80/e/039a2d50b10243778eb29437?renderMode=0&uiState=6a308a2112c1bea27ce2611d
+
+## Schematic (Wiring Diagram)
 
 <img width="2134" height="1522" alt="2850A0FF-4C0F-43FE-947C-E0EE290DE404" src="https://github.com/user-attachments/assets/deb5eb7d-b8a9-41bc-a772-1de2005ad7eb" />
 
@@ -29,7 +45,7 @@ You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e797
 | Servo Motor | High Torque Servo Motor DS-S020A-C | 2 | https://electroslab.com/products/high-torque-servo-motor-ds-s020a-c?_pos=8&_sid=93834f66d&_ss=r | 
 | Audio Power Amplifier Module | LM386 Audio Power Amplifier Module | 1 | https://electroslab.com/products/lm386-audio-power-amplifier-module?_pos=2&_sid=411d3b9ac&_ss=r | 
 | Speaker Module | Speaker Module | 1 | https://electroslab.com/products/speaker-8-ohm-0-5-watt | 
-| Breadboard Power Module | MB102 Breadboard Power Supply Module 3.3V 5V | 1 | https://electroslab.com/products/mb102-breadboard-power-supply-module-3-3v-5v?_pos=1&_sid=f577cafb8&_ss=r |
+| Breadboard Power Supply Module | MB102 Breadboard Power Supply Module 3.3V 5V | 1 | https://electroslab.com/products/mb102-breadboard-power-supply-module-3-3v-5v?_pos=1&_sid=f577cafb8&_ss=r |
 | Battery | Li-ion Rechargeable Battery 18650 - 3.7v 2000 mAh | 2 | https://electroslab.com/products/li-ion-rechargeable-solder-battery-18650-3-7v-2800-mah | 
 | Battery Holder | 2 X Lithium Battery Holder Box (LIR-18650 3.7V) | 1 | https://electroslab.com/products/2-x-aa-lithium-battery-charger | 
 
