@@ -25,6 +25,7 @@ You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e797
 | Main Screen Display | Waveshare 3.2inch Touch LCD Screen | 1 | https://electroslab.com/products/waveshare-3-2inch-tft-lcd-screen | 
 | Bottom Screen Display | LCD1602 LCD 1602 IIC/I2C Blue Backlight | 1 | https://electroslab.com/products/lcd1602-iic-i2c-blue-backlight | 
 | Stepper Motor | 17HS8401S-D150S Nema 17 Stepper Motor | 1 | https://electroslab.com/products/17hs8401s-d150s-nema-17-stepper-motor-1-8a-52n-cm?_pos=1&_sid=a7ba3be5b&_ss=r | 
+| Stepper Motor Driver | A4988 Stepper Motor Driver | 1 | https://electroslab.com/products/a4988-stepper-motor-driver?_pos=3&_sid=df0f3eddf&_ss=r | 
 | Servo Motor | High Torque Servo Motor DS-S020A-C | 2 | https://electroslab.com/products/high-torque-servo-motor-ds-s020a-c?_pos=8&_sid=93834f66d&_ss=r | 
 | Audio Power Amplifier Module | LM386 Audio Power Amplifier Module | 1 | https://electroslab.com/products/lm386-audio-power-amplifier-module?_pos=2&_sid=411d3b9ac&_ss=r | 
 | Speaker Module | Speaker Module | 1 | https://electroslab.com/products/speaker-8-ohm-0-5-watt | 
