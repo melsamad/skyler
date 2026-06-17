@@ -42,6 +42,9 @@ You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e797
 
 ## BOM (Bill Of Materials)
 
+You can find the bill of materials in the root directory:
+* [Download the BOM CSV](./Ai Tutor Lamp BOM - Sheet1.csv)
+
 | Component | Designator | Quantity | Link | 
 | :--- | :--- | :---| :--- | 
 | Microcontroller | ESP32 | 1 | https://electroslab.com/products/esp32?_pos=1&_sid=03f648e2b&_ss=r |
